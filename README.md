@@ -1,4 +1,10 @@
-## About me
+## My portfolio
+
+Welcome to my GitHub. 
+
+Here lays some of my work I decided to share. 
+
+Each project has it's own readme if you are curious about any of them.
 
 <!--
 **Koksowiec/Koksowiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
