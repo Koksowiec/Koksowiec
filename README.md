@@ -2,7 +2,7 @@
 
 Welcome to my GitHub. 
 
-Here lays some of my work I decided to share. 
+Here lies some of my work I decided to share. 
 
 Each project has it's own readme if you are curious about any of them.
 
